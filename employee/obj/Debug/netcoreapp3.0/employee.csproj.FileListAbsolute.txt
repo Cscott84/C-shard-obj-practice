@@ -1,0 +1,11 @@
+C:\Users\Corey\Documents\Projects\school\employee\obj\Debug\netcoreapp3.0\employee.csprojAssemblyReference.cache
+C:\Users\Corey\Documents\Projects\school\employee\obj\Debug\netcoreapp3.0\employee.AssemblyInfoInputs.cache
+C:\Users\Corey\Documents\Projects\school\employee\obj\Debug\netcoreapp3.0\employee.AssemblyInfo.cs
+C:\Users\Corey\Documents\Projects\school\employee\bin\Debug\netcoreapp3.0\employee.exe
+C:\Users\Corey\Documents\Projects\school\employee\bin\Debug\netcoreapp3.0\employee.deps.json
+C:\Users\Corey\Documents\Projects\school\employee\bin\Debug\netcoreapp3.0\employee.runtimeconfig.json
+C:\Users\Corey\Documents\Projects\school\employee\bin\Debug\netcoreapp3.0\employee.runtimeconfig.dev.json
+C:\Users\Corey\Documents\Projects\school\employee\bin\Debug\netcoreapp3.0\employee.dll
+C:\Users\Corey\Documents\Projects\school\employee\bin\Debug\netcoreapp3.0\employee.pdb
+C:\Users\Corey\Documents\Projects\school\employee\obj\Debug\netcoreapp3.0\employee.dll
+C:\Users\Corey\Documents\Projects\school\employee\obj\Debug\netcoreapp3.0\employee.pdb
